@@ -86,4 +86,4 @@ text
 
 ## Автор
 
-Алексей — [GitHub](https://github.com/LFG-Aizen)
+Aizen — [GitHub](https://github.com/LFG-Aizen)
